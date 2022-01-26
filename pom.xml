@@ -74,7 +74,7 @@
     </build>
 
     <properties>
-        <openapi-generator.version>5.3.0</openapi-generator.version>
+        <openapi-generator.version>5.3.1</openapi-generator.version>
         <jackson-databind.version>0.2.2</jackson-databind.version>
         <springfox.version>3.0.0</springfox.version>
         <maven.compiler.source>16</maven.compiler.source>
